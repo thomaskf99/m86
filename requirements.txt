@@ -6,3 +6,4 @@ matplotlib
 kagglehub
 scipy
 numba
+tqdm
