@@ -8,3 +8,4 @@ scipy
 numba
 tqdm
 arch
+scikit-learn
